@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm GoldenDev74</h1>
 <h3 align="center">A passionate software developer from Togo</h3>
 
-- 🔭 I’m currently working on **MiabePharmacie**
+- 🔭 I’m currently working on **MiabePharmacie** and **Compteur Electrique Intélligent (CEI)**
 
 - 🌱 I’m currently learning **Django and VueJs**
 
-- 👯 I’m looking to collaborate on **web project, mobile project**
+- 👯 I’m looking to collaborate on **web project, mobile project, IOT project**
 
 - 👨‍💻 All of my projects are available at [hdfhghd](hdfhghd)
 
