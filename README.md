@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **web project, mobile project, IOT project**
 
-- 👨‍💻 All of my projects are available at [hdfhghd](hdfhghd)
+- 👨‍💻 All of my projects are available at
 
 - 📫 How to reach me **sessoukodjogolden@gmail.com**
 
