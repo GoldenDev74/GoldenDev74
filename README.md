@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=2F6BFA&center=true&vCenter=true&width=640&lines=Je+construis+Scella%2C+l'%C3%A9diteur+PDF+hors+ligne+des+cabinets+d'audit;Laravel+%C2%B7+Vue+%C2%B7+React+%C2%B7+Flutter+%C2%B7+C%2B%2B%2FQt;Du+microcontr%C3%B4leur+%C3%A0+l'application+web;Des+logiciels+pens%C3%A9s+pour+l'Afrique+de+l'Ouest" alt="Je construis Scella · Laravel · Vue · React · Flutter · C++/Qt · Du microcontrôleur à l'application web" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=2F6BFA&center=true&vCenter=true&width=640&lines=Je+construis+Scella%2C+l'%C3%A9diteur+PDF+hors+ligne+des+cabinets+d'audit;Laravel+%C2%B7+NestJS+%C2%B7+AdonisJS+%C2%B7+Vue+%C2%B7+Nuxt+%C2%B7+React;Flutter+%C2%B7+C%2B%2B/Qt+%C2%B7+Kafka+%C2%B7+MinIO+%C2%B7+Docker;Proxmox+%C2%B7+Linux+%C2%B7+FreePBX+%C2%B7+Fortinet+%C2%B7+MikroTik;Du+microcontr%C3%B4leur+%C3%A0+l'application+web;Des+logiciels+pens%C3%A9s+pour+l'Afrique+de+l'Ouest" alt="Je construis Scella, l'éditeur PDF hors ligne des cabinets d'audit · Laravel · NestJS · AdonisJS · Vue · Nuxt · React · Flutter · C++/Qt · Kafka · MinIO · Docker · Proxmox · Linux · FreePBX · Fortinet · MikroTik · Du microcontrôleur à l'application web · Des logiciels pensés pour l'Afrique de l'Ouest" />
 </p>
 
 <p align="center">
