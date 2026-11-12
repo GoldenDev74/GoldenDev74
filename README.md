@@ -69,10 +69,11 @@ formats administratifs locaux, données sensibles qui doivent rester sur le post
 
 | Domaine | Technologies |
 |---|---|
-| **Web — back-end** | <img src="https://skillicons.dev/icons?i=laravel,php,django,python,spring,java,nodejs,express&theme=dark" alt="Laravel, PHP, Django, Python, Spring, Java, Node.js, Express" /> |
-| **Web — front-end** | <img src="https://skillicons.dev/icons?i=vue,react,nextjs,ts,js,tailwind,vite,html&theme=dark" alt="Vue, React, Next.js, TypeScript, JavaScript, Tailwind, Vite, HTML" /> |
+| **Web — back-end** | <img src="https://skillicons.dev/icons?i=laravel,php,nestjs,adonis,nodejs,express,django,python,spring,java&theme=dark" alt="Laravel, PHP, NestJS, AdonisJS, Node.js, Express, Django, Python, Spring, Java" /> |
+| **Web — front-end** | <img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,nextjs,ts,js,tailwind,vite,html&theme=dark" alt="Vue, Nuxt, React, Next.js, TypeScript, JavaScript, Tailwind, Vite, HTML" /> |
 | **Mobile & desktop** | <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,qt,dotnet,cs&theme=dark" alt="Flutter, Dart, C++, Qt, .NET, C#" /> |
 | **Données** | <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase,graphql&theme=dark" alt="MySQL, PostgreSQL, SQLite, Firebase, GraphQL" /> |
+| **Flux & stockage objet** | <img src="https://skillicons.dev/icons?i=kafka&theme=dark" alt="Apache Kafka" /> <img height="48" src="https://img.shields.io/badge/MinIO-stockage%20S3-C72E49?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO, stockage objet compatible S3" /> |
 | **Électronique & IoT** | <img src="https://skillicons.dev/icons?i=arduino,c,raspberrypi&theme=dark" alt="Arduino, C, Raspberry Pi" /> |
 | **Outils & déploiement** | <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,docker,vercel&theme=dark" alt="Git, GitHub, GitHub Actions, Linux, Docker, Vercel" /> |
 
