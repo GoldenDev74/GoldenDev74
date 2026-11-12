@@ -23,11 +23,14 @@ Ce qui me motive : des outils **utiles, fiables et adaptés à notre réalité**
 formats administratifs locaux, données sensibles qui doivent rester sur le poste.
 
 - 🔭 Je construis **Scella**, un éditeur PDF 100 % hors ligne pour les cabinets d'audit (Togo et France)
+- 🏥 J'ai conçu **[Ophtax](https://github.com/GoldenDev74/ophtax_v2)**, la gestion complète d'une clinique d'ophtalmologie
 - 🛒 Je fais évoluer **[Naneu-shop](https://github.com/GoldenDev74/naneu-shop)**, une gestion de stock et de caisse pour commerces
 - ⚡ J'aime l'électronique embarquée : microcontrôleurs, capteurs, IoT
 - 🤝 Ouvert aux **missions freelance** et aux **collaborations** : web, mobile, desktop, IoT
 
-### 🚀 Projet phare : Scella
+### 🚀 Projets phares
+
+#### 🔐 Scella — l'éditeur PDF des auditeurs
 
 > L'éditeur PDF des auditeurs : lire, annoter, **anonymiser** et **signer** des dossiers sensibles, sans qu'aucune donnée ne quitte le poste.
 
@@ -39,6 +42,18 @@ formats administratifs locaux, données sensibles qui doivent rester sur le post
 | 🧱 **Sous le capot** | C++23 · Qt 6 · MuPDF · SQLite · GoogleTest · CI GitHub Actions · installateur MSI (WiX) |
 
 <sub>Code privé — produit en phase pilote.</sub>
+
+#### 👁️ [Ophtax](https://github.com/GoldenDev74/ophtax_v2) — la clinique d'ophtalmologie, de l'accueil à la consultation
+
+> Une application web qui suit le patient pas à pas : **secrétariat → agenda → salle de tri → médecin**, avec un dossier patient unique.
+
+| | |
+|---|---|
+| 🗂️ **Dossiers patients** | Fiche unique, recherche rapide, signalement des urgences, historique des consultations et des interventions |
+| 📅 **Agenda** | Rendez-vous par créneau (deux patients par créneau possibles), suivi de l'heure d'arrivée et de consultation |
+| 🩺 **Parcours de soin** | Salle de tri (acuité visuelle) par l'infirmière, puis espace médecin pour la consultation et les montants |
+| 🔑 **Rôles et sécurité** | Direction, médecin, infirmière : chacun ne voit que son espace (Spatie Permission) ; sauvegarde de la base (Spatie Backup) |
+| 🧱 **Sous le capot** | Laravel 13 · PHP 8.4 · PostgreSQL 16 · Blade · Tailwind CSS · Alpine.js · Vite · Docker |
 
 ### 🧰 Quelques projets
 
@@ -72,8 +87,9 @@ formats administratifs locaux, données sensibles qui doivent rester sur le post
 
 Togolese software developer working **from the microcontroller to the web app**. I'm currently building
 **Scella**, a fully offline PDF editor for audit firms (smart redaction of West African and French
-identifiers, OCR in 119 languages, stamps and signatures) in C++/Qt, and I ship web and mobile apps
-with Laravel, Vue, React and Flutter. **Open to freelance work and collaborations.**
+identifiers, OCR in 119 languages, stamps and signatures) in C++/Qt. I also built **Ophtax**, the complete
+management app of an ophthalmology clinic (front desk, scheduling, triage, doctor's office) with Laravel and
+PostgreSQL, and I ship web and mobile apps with Laravel, Vue, React and Flutter. **Open to freelance work and collaborations.**
 
 ### 📫 Me retrouver
 
