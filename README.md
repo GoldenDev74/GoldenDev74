@@ -25,7 +25,8 @@ formats administratifs locaux, données sensibles qui doivent rester sur le post
 - 🔭 Je construis **Scella**, un éditeur PDF 100 % hors ligne pour les cabinets d'audit (Togo et France)
 - 🏥 J'ai conçu **[Ophtax](https://github.com/GoldenDev74/ophtax_v2)**, la gestion complète d'une clinique d'ophtalmologie
 - 🛒 Je fais évoluer **[Naneu-shop](https://github.com/GoldenDev74/naneu-shop)**, une gestion de stock et de caisse pour commerces
-- ⚡ J'aime l'électronique embarquée : microcontrôleurs, capteurs, IoT
+- ⚡ J'aime l'électronique embarquée : ESP32-CAM, Arduino, capteurs, IoT
+- 🖧 J'administre aussi l'infrastructure : serveurs Proxmox, Linux, téléphonie FreePBX, réseaux Fortinet et MikroTik
 - 🤝 Ouvert aux **missions freelance** et aux **collaborations** : web, mobile, desktop, IoT
 
 ### 🚀 Projets phares
@@ -69,13 +70,14 @@ formats administratifs locaux, données sensibles qui doivent rester sur le post
 
 | Domaine | Technologies |
 |---|---|
-| **Web — back-end** | <img src="https://skillicons.dev/icons?i=laravel,php,nestjs,adonis,nodejs,express,django,python,spring,java&theme=dark" alt="Laravel, PHP, NestJS, AdonisJS, Node.js, Express, Django, Python, Spring, Java" /> |
-| **Web — front-end** | <img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,nextjs,ts,js,tailwind,vite,html&theme=dark" alt="Vue, Nuxt, React, Next.js, TypeScript, JavaScript, Tailwind, Vite, HTML" /> |
+| **Web — back-end** | <img src="https://skillicons.dev/icons?i=laravel,php,nestjs,adonis,nodejs,express,flask,django,python,spring,java&theme=dark" alt="Laravel, PHP, NestJS, AdonisJS, Node.js, Express, Flask, Django, Python, Spring, Java" /> |
+| **Web — front-end** | <img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,nextjs,ts,js,tailwind,vuetify,alpinejs,sass,vite,html&theme=dark" alt="Vue, Nuxt, React, Next.js, TypeScript, JavaScript, Tailwind, Vuetify, Alpine.js, Sass, Vite, HTML" /><br/><img height="28" src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" /> <img height="28" src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white" alt="Inertia.js" /> <img height="28" src="https://img.shields.io/badge/Laravel%20Reverb-temps%20r%C3%A9el-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Reverb" /> |
 | **Mobile & desktop** | <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,qt,dotnet,cs&theme=dark" alt="Flutter, Dart, C++, Qt, .NET, C#" /> |
-| **Données** | <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase,graphql&theme=dark" alt="MySQL, PostgreSQL, SQLite, Firebase, GraphQL" /> |
-| **Flux & stockage objet** | <img src="https://skillicons.dev/icons?i=kafka&theme=dark" alt="Apache Kafka" /> <img height="48" src="https://img.shields.io/badge/MinIO-stockage%20S3-C72E49?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO, stockage objet compatible S3" /> |
-| **Électronique & IoT** | <img src="https://skillicons.dev/icons?i=arduino,c,raspberrypi&theme=dark" alt="Arduino, C, Raspberry Pi" /> |
-| **Outils & déploiement** | <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,docker,vercel&theme=dark" alt="Git, GitHub, GitHub Actions, Linux, Docker, Vercel" /> |
+| **Données** | <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,sqlite,firebase,graphql&theme=dark" alt="MySQL, PostgreSQL, Redis, SQLite, Firebase, GraphQL" /> |
+| **Flux & stockage objet** | <img src="https://skillicons.dev/icons?i=kafka&theme=dark" alt="Apache Kafka" /> <img height="28" src="https://img.shields.io/badge/MinIO-stockage%20S3-C72E49?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO" /> |
+| **Systèmes & réseau** | <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,bash,powershell&theme=dark" alt="Linux, Debian, Ubuntu, Bash, PowerShell" /><br/><img height="28" src="https://img.shields.io/badge/Proxmox%20VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox VE" /> <img height="28" src="https://img.shields.io/badge/FreePBX%20%C2%B7%20Asterisk-VoIP-F68D2E?style=for-the-badge&logo=asterisk&logoColor=white" alt="FreePBX · Asterisk" /> <img height="28" src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet" /> <img height="28" src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" /> <img height="28" src="https://img.shields.io/badge/NetBox-00A0DF?style=for-the-badge&logo=netbox&logoColor=white" alt="NetBox" /> |
+| **Électronique & IoT** | <img src="https://skillicons.dev/icons?i=arduino,c,raspberrypi&theme=dark" alt="Arduino, C, Raspberry Pi" /> <img height="28" src="https://img.shields.io/badge/ESP32--CAM-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32-CAM" /> |
+| **Outils & déploiement** | <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,nginx,cloudflare,vercel&theme=dark" alt="Git, GitHub, GitHub Actions, Docker, Nginx, Cloudflare, Vercel" /><br/><img height="28" src="https://img.shields.io/badge/Dokploy-1E1E1C?style=for-the-badge&logo=docker&logoColor=white" alt="Dokploy" /> <img height="28" src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white" alt="Traefik" /> <img height="28" src="https://img.shields.io/badge/Pest%20%C2%B7%20PHPUnit-tests-3776AB?style=for-the-badge&logo=php&logoColor=white" alt="Pest · PHPUnit" /> |
 
 ### 📊 Sur GitHub
 
@@ -90,7 +92,7 @@ Togolese software developer working **from the microcontroller to the web app**.
 **Scella**, a fully offline PDF editor for audit firms (smart redaction of West African and French
 identifiers, OCR in 119 languages, stamps and signatures) in C++/Qt. I also built **Ophtax**, the complete
 management app of an ophthalmology clinic (front desk, scheduling, triage, doctor's office) with Laravel and
-PostgreSQL, and I ship web and mobile apps with Laravel, Vue, React and Flutter. **Open to freelance work and collaborations.**
+PostgreSQL, and I ship web and mobile apps with Laravel, NestJS, AdonisJS, Vue, Nuxt, React and Flutter. I also run infrastructure (Proxmox, Linux, FreePBX/Asterisk, Fortinet, MikroTik) and build IoT devices with ESP32 and Arduino. **Open to freelance work and collaborations.**
 
 ### 📫 Me retrouver
 
